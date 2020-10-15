@@ -7,7 +7,7 @@ You can find the Back in https://github.com/gomezlucas/CRMNodeJs
 
 
 To Test: 
-User: lucas@email.com
+User: damian2@email.com
 password: 123456
 
 
